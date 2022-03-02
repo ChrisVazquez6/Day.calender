@@ -83,3 +83,8 @@ $(document).ready(function () {
     localStorage.setItem('10ptext', $('#10ptext').val())
   })
 })
+
+// var time = console.log(moment().format("MMM Do YY"));
+//  console.log(moment().format("MMM Do YY"));
+
+// document.getElementById('#currentday').time
